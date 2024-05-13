@@ -76,3 +76,6 @@ These URLs will allow you to access the respective components of the Food Orderi
 - Toastify: Library for displaying toast notifications in the admin panel.
 
 This project combines a variety of technologies to create a comprehensive solution for online food ordering. It provides users with a seamless experience for browsing menus, placing orders, and managing their accounts, while administrators have access to tools for overseeing and managing the platform's operations.
+
+### Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
